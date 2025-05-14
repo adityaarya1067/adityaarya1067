@@ -1,21 +1,29 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar Arya</h1>
 <h3 align="center">A passionate AI/ML developer from India ❤</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya&label=Profile%20views&color=0e75b6&style=flat" alt="aditya" /> </p>
-
-<p align="center">
-    <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img
-            src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+AI/ML+developer." /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=aditya&label=Profile%20views&color=0e75b6&style=flat" alt="aditya" /> 
 </p>
 
-<div align="center" display="flex">
-    <img width="50%" src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
-    <img align="" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=FF6F61&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+an+AI/ML+Developer;Exploring+Deep+Learning+and+LLMs" />
+  </a>
+</p>
+
+<div align="center">
+  <img width="50%" src="https://i.ibb.co/ZYW3VTp/ai-ml-banner.png" alt="AI ML Banner">
+  <img alt="ML Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya" alt="aditya" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aditya&theme=algolia" alt="aditya trophies" />
+  </a> 
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+<img align="right" alt="AI Dev" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ## About Me
 
